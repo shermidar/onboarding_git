@@ -1,4 +1,3 @@
-# onboarding_git
+# onboarding_gAt
 
-## cambios desde mi entorno local
-
+## cambios con errores
